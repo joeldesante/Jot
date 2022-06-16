@@ -1,0 +1,60 @@
+{
+  "id": "sfadfsd",
+  "rootDocumentNode": {
+    "id": "6wxMKLojgtKBAXBH-KZiN",
+    "content": "",
+    "title": "Yohan the Great",
+    "childDocuments": [
+      {
+        "id": "RgyRziAR-c0X64It0JBgT",
+        "content": "I am writing some stuff here",
+        "title": "Chapter 1 - Revelation",
+        "childDocuments": [
+          {
+            "id": "GvjBlnJNQsaKaMNFDiNuh",
+            "content": "",
+            "title": "Untitled Document",
+            "childDocuments": []
+          }
+        ]
+      },
+      {
+        "id": "AQX3u__8LCyiIxKxNQc14",
+        "content": "",
+        "title": "Chapter 2 - The Cave",
+        "childDocuments": []
+      },
+      {
+        "id": "WICiA2eKnjbvH7wN16p5R",
+        "content": "",
+        "title": "Chapter 3 - Workers",
+        "childDocuments": []
+      },
+      {
+        "id": "AbXLLr3EdXmciq1n8f7e4",
+        "content": "",
+        "title": "Chapter 4 - Sunlight",
+        "childDocuments": [
+          {
+            "id": "Upvy73TlrqfumCMRkDB9w",
+            "content": "",
+            "title": "Untitled Document",
+            "childDocuments": []
+          },
+          {
+            "id": "roCtPyZJMYNGoI-0Bk9O-",
+            "content": "",
+            "title": "Untitled Document",
+            "childDocuments": []
+          },
+          {
+            "id": "EsmLy1D5dmX3hf88SFBuO",
+            "content": "dsafsdfa",
+            "title": "Untitled Documentfdsaf",
+            "childDocuments": []
+          }
+        ]
+      }
+    ]
+  }
+}
