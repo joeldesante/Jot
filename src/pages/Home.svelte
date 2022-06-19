@@ -2,4 +2,10 @@
     import { link } from "svelte-spa-router";
 </script>
 
-<a href="/editor/sfadfsd" use:link>Go to editor</a>
+<section>
+    <a href="/create" use:link>New Project</a>
+    <a href="/open" use:link>Open Project</a>
+    <hr>
+    <h3>Recent Projects</h3>
+
+</section>
